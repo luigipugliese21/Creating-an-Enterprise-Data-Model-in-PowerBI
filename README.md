@@ -3,6 +3,8 @@
 ## Project Overview
 This enterprise data model project was designed to provide the finance team with the daily metrics needed for C-suite reporting and to empower the sales and operations departments in strategizing based on robust data analytics. It centralizes call data, sales performance, agent productivity, and media spend to offer a comprehensive view of business activities.
 
+## Process Flow
+![Process Flow Description](EnterpriseFlow.jpeg)
 
 
 ## Repository Contents
